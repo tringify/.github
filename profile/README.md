@@ -25,4 +25,4 @@ Tringify puts more into the core: returns, exchanges, markets, taxes, discounts,
 
 [Website](https://tringify.com) · [Developers](https://developers.tringify.com) · [Help Center](https://help.tringify.com) · [App Store](https://apps.tringify.com) · [Theme Store](https://themes.tringify.com) · [Partners](https://partners.tringify.com)
 
-[X](https://x.com/tringifyco) · [LinkedIn](https://www.linkedin.com/company/tringifyco/) · [YouTube](https://www.youtube.com/@tringifyco) · [Instagram](https://www.instagram.com/tringifyco/) · [Facebook](https://www.facebook.com/tringify)
+[X](https://x.com/tringifyco) · [LinkedIn](https://www.linkedin.com/company/tringifyco/) · [YouTube](https://www.youtube.com/@tringifyco) · [Instagram](https://www.instagram.com/tringifyco/) · [Facebook](https://www.facebook.com/tringify) · [Reddit](https://www.reddit.com/r/TringifyOfficial/)
