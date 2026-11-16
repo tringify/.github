@@ -13,7 +13,7 @@ Tringify puts more into the core: returns, exchanges, markets, taxes, discounts,
 | | |
 | --- | --- |
 | **[cli](https://github.com/tringify/cli)** | Build, preview and publish Tringify storefront themes |
-| **[theme-starter](https://github.com/tringify/theme-starter)** | Starter theme for building Tringify storefront themes |
+| **[canvas](https://github.com/tringify/canvas)** | Canvas, Tringify's default storefront theme: new themes start from it |
 | **[theme-tools](https://github.com/tringify/theme-tools)** | Build, preview, validate and package themes |
 | **[app-starter](https://github.com/tringify/app-starter)** | A TypeScript Cloudflare Worker app with an embedded admin page, signed webhooks and Store API calls |
 | **[mcp](https://github.com/tringify/mcp)** | Connect AI assistants to a Tringify store with MCP and OAuth |
