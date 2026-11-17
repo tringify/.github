@@ -12,9 +12,9 @@ Tringify puts more into the core: returns, exchanges, markets, taxes, discounts,
 
 | | |
 | --- | --- |
-| **[cli](https://github.com/tringify/cli)** | Build, preview and publish Tringify storefront themes |
+| **[cli](https://github.com/tringify/cli)** | Build, preview and publish Tringify storefront themes and apps |
 | **[canvas](https://github.com/tringify/canvas)** | Canvas, Tringify's default storefront theme: new themes start from it |
-| **[theme-tools](https://github.com/tringify/theme-tools)** | Build, preview, validate and package themes |
+| **[theme-tools](https://github.com/tringify/theme-tools)** | The theme validator and preview renderer the Tringify CLI uses |
 | **[app-starter](https://github.com/tringify/app-starter)** | A TypeScript Cloudflare Worker app with an embedded admin page, signed webhooks and Store API calls |
 | **[mcp](https://github.com/tringify/mcp)** | Connect AI assistants to a Tringify store with MCP and OAuth |
 | **[vascula](https://github.com/tringify/vascula)** | Safe, fast HTML templates for Go |
